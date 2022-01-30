@@ -14402,11 +14402,6 @@
   "RootNamespace": "ChefsNDishes",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\dream\\Documents\\Coding Dojo\\C#\\ChefsNDishes\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\dream\\Documents\\Coding Dojo\\C#\\ChefsNDishes\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14422,8 +14417,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\dream\\Documents\\Coding Dojo\\C#\\ChefsNDishes\\Views\\Chef\\ChefForm.cshtml",
+      "TargetPath": "Views\\Chef\\ChefForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dream\\Documents\\Coding Dojo\\C#\\ChefsNDishes\\Views\\Dish\\DishForm.cshtml",
+      "TargetPath": "Views\\Dish\\DishForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\dream\\Documents\\Coding Dojo\\C#\\ChefsNDishes\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dream\\Documents\\Coding Dojo\\C#\\ChefsNDishes\\Views\\Dish\\Dishes.cshtml",
+      "TargetPath": "Views\\Dish\\Dishes.cshtml",
       "FileKind": "mvc"
     },
     {
